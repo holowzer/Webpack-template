@@ -1,3 +1,1 @@
-import './style/main.styl'
-
-console.log('Hello Webpack')
+import './style/main.scss'
