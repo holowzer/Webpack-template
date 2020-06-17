@@ -1,5 +1,5 @@
 {
-  "name": "sonora",
+  "name": "Sonora",
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {},
@@ -34,6 +34,6 @@
   "description": "- Basic files support (HTML, CSS, Stylus, JS, Images, Fonts)\r - Extracted CSS\r - Transpilled JS (with Babel)\r - Sourcemaps\r - Clean dist\r - Dev server (with local network support)\r - Static Files\r - Cache breaker",
   "repository": {
     "type": "git",
-    "url": "git remote add origin https://github.com/holowzer/Sonora.git"
+    "url": "git remote add origin https://github.com/holowzer/soccer-ball-pantheon-git.git"
   }
 }
